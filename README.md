@@ -26,8 +26,8 @@ As the name says it all, it a simple full stack project which is used for orderi
 ## Install and Run :
 - Clone the repository or download the zip folder.
 - Extract the zip folder.
-- Import the data from the ``` FoodOrderingWebsite.sql ``` file to your ``` MySQL``` Database.
-- Install NodeJS in your system.
+- Import the data from the ``` FoodOrderingWebsite.sql , menu ``` files to your ``` MySQL``` Database.
+- Install NodeJS in your system.(nvm,npm included.Use npm -v and nvm -v to check if its installed.)
 - Go to the folder where you have extracted or cloned the project.
 - Open command prompt or terminal having the same location where your project is.
 - Type ``` npm install ``` in your command prompt or terminal.
